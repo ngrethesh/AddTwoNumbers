@@ -1,8 +1,8 @@
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
 
-        listNode dummy = new ListNode(0);
-        listNode current = dummy;
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
 
         int carry = 0;
 
